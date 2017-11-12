@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03 L20 Classes and Objects
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03 L24 Collections and Arrays", "S03 L24 Collections and Arrays\S03 L24 Collections and Arrays.csproj", "{174D8B4F-EDC0-45A6-91A7-34616351FE75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03 L27 Exceptions Handling", "S03 L27 Exceptions Handling\S03 L27 Exceptions Handling.csproj", "{38A591D6-08E9-4303-A06B-1310759C3896}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{174D8B4F-EDC0-45A6-91A7-34616351FE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{174D8B4F-EDC0-45A6-91A7-34616351FE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{174D8B4F-EDC0-45A6-91A7-34616351FE75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A591D6-08E9-4303-A06B-1310759C3896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A591D6-08E9-4303-A06B-1310759C3896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A591D6-08E9-4303-A06B-1310759C3896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A591D6-08E9-4303-A06B-1310759C3896}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
