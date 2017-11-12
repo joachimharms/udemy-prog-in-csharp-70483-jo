@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03 L27 Exceptions Handling
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03 L28 String Builder Example", "S03 L28 String Builder Example\S03 L28 String Builder Example.csproj", "{851C2F82-CD45-4761-80D6-B254A103EAC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03 L30 StringWriter and StringReader", "S03 L30 StringWriter and StringReader\S03 L30 StringWriter and StringReader.csproj", "{C9279262-059D-432C-A4FC-3F5FF8813220}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{851C2F82-CD45-4761-80D6-B254A103EAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{851C2F82-CD45-4761-80D6-B254A103EAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{851C2F82-CD45-4761-80D6-B254A103EAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9279262-059D-432C-A4FC-3F5FF8813220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9279262-059D-432C-A4FC-3F5FF8813220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9279262-059D-432C-A4FC-3F5FF8813220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9279262-059D-432C-A4FC-3F5FF8813220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
