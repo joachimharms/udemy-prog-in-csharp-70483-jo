@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S02 L12 Code Regions", "S2 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03 L20 Classes and Objects Example", "S03 L20 Classes and Objects Example\S03 L20 Classes and Objects Example.csproj", "{76589710-6D6E-4C90-8A8E-3FFD5FF38035}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03 L24 Collections and Arrays", "S03 L24 Collections and Arrays\S03 L24 Collections and Arrays.csproj", "{174D8B4F-EDC0-45A6-91A7-34616351FE75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{76589710-6D6E-4C90-8A8E-3FFD5FF38035}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76589710-6D6E-4C90-8A8E-3FFD5FF38035}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76589710-6D6E-4C90-8A8E-3FFD5FF38035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{174D8B4F-EDC0-45A6-91A7-34616351FE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{174D8B4F-EDC0-45A6-91A7-34616351FE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{174D8B4F-EDC0-45A6-91A7-34616351FE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{174D8B4F-EDC0-45A6-91A7-34616351FE75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
