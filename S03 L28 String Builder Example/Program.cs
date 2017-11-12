@@ -20,6 +20,13 @@ namespace S03_L28_String_Builder_Example
             var sb2 = new StringBuilder("This is an example of");
             sb2.Append(" string concatenation.");
             Console.WriteLine(sb2);
+
+            sb2.AppendLine();
+            sb2.Append(" using StringBuilder");
+            Console.WriteLine(sb2);
+
+            sb2.Replace("StringBuilder", " the StringBuilder class...");
+            Console.WriteLine(sb2);
         }
     }
 }
