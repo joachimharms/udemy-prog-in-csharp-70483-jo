@@ -10,7 +10,7 @@ namespace S03_L30_StringWriter_and_StringReader
     {
         static void Main(string[] args)
         {
-
+            var srw = new StringReadWrite();
         }
     }
 }
