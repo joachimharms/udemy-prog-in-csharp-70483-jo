@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2 L12 Code Regions", "S2 L12 Code Regions\S2 L12 Code Regions.csproj", "{626DFE07-8A88-42E7-9DD5-494C88BE204C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S02 L12 Code Regions", "S2 L12 Code Regions\S02 L12 Code Regions.csproj", "{626DFE07-8A88-42E7-9DD5-494C88BE204C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03 L20 Classes and Objects Example", "S03 L20 Classes and Objects Example\S03 L20 Classes and Objects Example.csproj", "{76589710-6D6E-4C90-8A8E-3FFD5FF38035}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{626DFE07-8A88-42E7-9DD5-494C88BE204C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{626DFE07-8A88-42E7-9DD5-494C88BE204C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{626DFE07-8A88-42E7-9DD5-494C88BE204C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76589710-6D6E-4C90-8A8E-3FFD5FF38035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76589710-6D6E-4C90-8A8E-3FFD5FF38035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76589710-6D6E-4C90-8A8E-3FFD5FF38035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76589710-6D6E-4C90-8A8E-3FFD5FF38035}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
